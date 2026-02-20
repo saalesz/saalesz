@@ -1,38 +1,47 @@
 # Olá, eu sou o [Seu Nome]! 👋
 
-### 🚀 Desenvolvedor(a) [Sua Stack: Ex: Fullstack / Backend / Mobile]
+### 🚀 Desenvolvedor(a) em constante evolução
 
-Estou sempre em busca de novos desafios e apaixonado(a) por transformar café em código funcional. Atualmente, foco em aprimorar minhas habilidades em **[Sua Tecnologia Principal]**.
-
----
-
-### 🛠️ No que eu trabalho:
-- 🔭 Atualmente trabalhando em **[Nome do Projeto]**
-- 🌱 Estudando profundamente **[Tecnologia que está aprendendo]**
-- 💬 Pergunte-me sobre **[Assunto que você domina]**
-- 📫 Como me encontrar: **[Seu Email ou LinkedIn]**
+Sou um entusiasta de tecnologia focado em criar soluções eficientes e visualmente impactantes. Acredito que o código é uma ferramenta para transformar ideias em realidade.
 
 ---
 
-### 💻 Tecnologias e Ferramentas:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ No que estou focado agora:
+- 🔭 **Explorando:** Novas fronteiras em inteligência artificial e automação.
+- ⚡ **Desafio atual:** Refinando minha stack principal e arquitetura de sistemas.
+- 💬 **Pode me perguntar sobre:** Curiosidade tecnológica, lógica de programação e como estilizar perfis.
+- 📫 **Conecte-se comigo:** [Seu LinkedIn ou Email aqui]
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 💻 Minhas Tecnologias:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🤝 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](SEU_LINK_AQUI)
+### 📊 Meu Desempenho no GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+---
+
+### 🏆 Contribuições e Atividade:
+
+![Gráfico de Atividade](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=radical&hide_border=true)
+
+---
+
+<p align="center">
+  <i>"O melhor jeito de prever o futuro é codificá-lo."</i>
+</p>
