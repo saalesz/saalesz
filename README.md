@@ -51,8 +51,8 @@ Embora transite por toda a stack, meu foco principal é o **desenvolvimento Fron
 
 Se você busca um desenvolvedor graduado, com olhar crítico para o design e domínio técnico do Front-end, vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-sales-9a5a49277/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emersonslz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salesdev245@gmail.com)
 
 ---
 
